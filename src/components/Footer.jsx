@@ -10,7 +10,11 @@ const Footer = () => {
             <SiApplearcade />
           </span>
           <span className="flex justify-center items-center gap-5 text-2xl lg:text-xl xl:text-4xl">
-            <a rel="noreferrer" href="https://www.youtube.com" target="_blank">
+            <a
+              rel="noreferrer"
+              href="https://github.com/AndresPineros29/gaming-coaching-landingpage"
+              target="_blank"
+            >
               <BsGithub className="hover:text-violet-500" />
             </a>
             <a
